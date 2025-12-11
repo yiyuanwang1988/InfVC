@@ -11,5 +11,7 @@ The command to run InfVC is:
 ```
 InfVC terminates when reaching the cutoff time.
 
+Note that the InfVC needs cplex solver
+
 ## 3. Output
 <instance name> <seed> <result>
